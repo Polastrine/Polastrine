@@ -35,4 +35,6 @@
   <a href="mailto:digolalilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+![snake gif](https://github.com/Deekzzyy/Deekzzyy/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e8cee&height=200&section=footer"/>
