@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/Deekzzyy">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Deekzzyy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true&show_owner=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekzzyy&theme=dracula&bg_color=0d1117&hide_border=true&&layout=compact"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Deekzzyy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true&show_owner=true"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekzzyy&theme=dracula&bg_color=0d1117&hide_border=true&&layout=compact"/>
   </a>
 </div>
 
