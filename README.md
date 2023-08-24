@@ -1,8 +1,8 @@
-<div>
-  <h1 align="center">
-   🧠 Hello, what's up? I'm 
-    <a href="https://www.linkedin.com/in/DiogoPolastrine/">Diogo Polastrine 🧠</a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=130&section=header"/>
+
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1100&lines=Hello,+my+name+is+Diogo+Polastrine;Seja+muito+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
    
 
 
@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/Deekzzyy">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Deekzzyy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekzzyy&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Deekzzyy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true&show_owner=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekzzyy&theme=dracula&bg_color=0d1117&hide_border=true&&layout=compact"/>
   </a>
 </div>
 
@@ -34,3 +34,5 @@
   <a href="https://www.linkedin.com/in/diogopolastrine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:digolalilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e8cee&height=200&section=footer"/>
