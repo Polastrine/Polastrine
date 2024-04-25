@@ -7,9 +7,9 @@
 
 
     
-🍃[𝐞𝐧-𝐮𝐬] I'm 19 years old and I'm studying JavaScript and looking to become a FullStack developer, I created interesting during my training at the Aeronautics School of Specialists (EEAR) and now I am focused on developing myself in this area. 🍃  
+🍃[𝐞𝐧-𝐮𝐬] I'm 20 years old and I'm studying JavaScript and looking to become a FullStack developer, I created interesting during my training at the Aeronautics School of Specialists (EEAR) and now I am focused on developing myself in this area. 🍃  
 
-🍃[𝐩𝐭-𝐛𝐫] Tenho 19 anos e estou estudando JavaScript e buscando me tornar um desenvolvedor FullStack, criei interessantes durante minha formação na Escola de Especialistas de Aeronáutica (EEAR) e agora estou focado em me desenvolver nesta área. 🍃  
+🍃[𝐩𝐭-𝐛𝐫] Tenho 20 anos e estou estudando JavaScript e buscando me tornar um desenvolvedor FullStack, criei interessantes durante minha formação na Escola de Especialistas de Aeronáutica (EEAR) e agora estou focado em me desenvolver nesta área. 🍃  
 
 
           
