@@ -1,16 +1,12 @@
-# 👋 Olá, eu sou Diogo Polastrine!
+# 👋 Olá, pode me chamar de Diogo!
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+Júnior;Especialista+em+Python;Entusiasta+de+Dados;Always+learning+new+things!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Receba+códigos+...;Especialista+em+Python;Dados+e+Dados;Sempre+aprendendo+coisas+novas!)](https://git.io/typing-svg)
   
 </div>
 
-## 🚀 Sobre Mim
-
-🎯 **Desenvolvedor Backend Júnior** focado em **Python**, construindo soluções escaláveis, automatizadas e orientadas a dados.
-
-🏢 Atualmente trabalhando na **Raízen** como **Analista de Inteligência de Mercado de Energia**, desenvolvendo sistemas backend que processam grandes volumes de dados em insights acionáveis.
+🎯 **Desenvolvedor Backend** focado em **Python**
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na São Paulo Tech School.
 
@@ -27,10 +23,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Polastrine&theme=tokyonight" alt="Polastrine" />
 </div>
 
-## 🛠️ Tecnologias & Ferramentas
-
-### 💻 Linguagens de Programação
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -38,8 +30,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </div>
-
-### 🌐 Frameworks & Libraries
 
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -50,15 +40,11 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </div>
 
-### 🗄️ Bancos de Dados
-
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
-
-### 🔧 Ferramentas & DevOps
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -69,60 +55,11 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </div>
 
-### 📊 Data Science & Analytics
-
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
 </div>
-
-## 💼 Experiência Profissional
-
-### 🏢 Raízen - Inteligência de Mercado de Energia
-
-**📅 Setembro 2024 - Atual** | **📍 Remoto, Brasil**
-
-- 🐍 Desenvolvimento e manutenção de soluções backend em **Python**
-- 🔄 Construção e orquestração de **pipelines ETL** com **Apache Airflow**
-- 🌐 Design e consumo de **APIs REST** para integração e automação
-- 🗄️ Integração com bancos **relacionais** e **não relacionais**
-- 🧪 Implementação de **testes automatizados** e práticas de **código limpo**
-- 🐳 Criação de **microsserviços conteinerizados** com **Docker**
-- ☁️ Deploy de aplicações na **AWS** (EC2, S3, Cognito)
-- 📊 Monitoramento com **Grafana** e documentação de projetos
-
-**🎯 Projeto Destaque:**
-
-> API de Análise Preditiva para o setor de energia com dashboard para visualização de dados, integrando dados da ONS.
-
-## 🎓 Formação Acadêmica
-
-### 🏫 São Paulo Tech School
-
-**📅 2024 - 2026** | **🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas**
-
-**Principais Conhecimentos:**
-
-- Desenvolvimento com múltiplas linguagens e frameworks
-- Arquitetura limpa e desenvolvimento de APIs REST
-- Metodologias ágeis (Scrum) e documentação (PMBOK)
-- Infraestrutura em nuvem com AWS
-
-## 🏆 Certificações
-
-- 🐍 **Python I & II** - OneBitCode
-- 🌐 **JavaScript I–IV** - OneBitCode
-- 🎨 **HTML & CSS** - OneBitCode
-- 👥 **RYLA** - Liderança e Trabalho em Equipe
-- 💻 **Programa de Formação Profissional em TI** (SCP)
-- 🚀 **Discover** - Rocketseat
-
-## 🌍 Idiomas
-
-- 🇧🇷 **Português** - Nativo
-- 🇺🇸 **Inglês** - Intermediário
-- 🇪🇸 **Espanhol** - Básico
 
 ## 📈 Atividade no GitHub
 
