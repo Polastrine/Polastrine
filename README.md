@@ -55,19 +55,17 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
 </div>
 
-## 📈 Atividade no GitHub
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Polastrine&theme=tokyo-night&hide_border=true" alt="Polastrine's github activity graph"/>
 </div>
 
-## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Polastrine&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="Polastrine"/>
 </div>
 
-## 📫 Vamos Conectar!
+## 📫 Conecta ai, vai!
 
 <div align="center">
   
@@ -81,7 +79,7 @@
 
 <div align="center">
   
-  ⭐ **"Construindo o futuro, uma linha de código por vez!"** ⭐
+  ⭐ **"Uma linha de código de cada vez!"** ⭐
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Polastrine&color=blueviolet&style=for-the-badge)
   
