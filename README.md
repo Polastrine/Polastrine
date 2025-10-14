@@ -1,4 +1,4 @@
-# 👋 Olá, pode me chamar de Diogo!
+# 👋 Opa, beleza? Meu nome é Diogo!
 
 <div align="center">
   
