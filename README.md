@@ -60,11 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Polastrine&theme=tokyo-night&hide_border=true" alt="Polastrine's github activity graph"/>
 </div>
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Polastrine&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="Polastrine"/>
-</div>
-
 ## 📫 Conecta ai, vai!
 
 <div align="center">
