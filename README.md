@@ -1,17 +1,8 @@
-# 👋 Opa, beleza? Meu nome é Diogo!
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Receba+códigos+...;Especialista+em+Python;Dados+e+Dados;Sempre+aprendendo+coisas+novas!)](https://git.io/typing-svg)
+# 👋 how're u going??!
   
 </div>
 
-🎯 **Estudante e Desenvolvedor Backend e DevOps** focado em **Python**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Polastrine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polastrine&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+**Backend, DevOps** focus on **Python**...
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -56,7 +47,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Polastrine&theme=tokyo-night&hide_border=true" alt="Polastrine's github activity graph"/>
 </div>
 
-## 📫 Conecta ai, vai!
+## 📫!
 
 <div align="center">
   
@@ -70,7 +61,7 @@
 
 <div align="center">
   
-  ⭐ **"Uma linha de código de cada vez!"** ⭐
+  ⭐ **"one line, one code!"** ⭐
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Polastrine&color=blueviolet&style=for-the-badge)
   
