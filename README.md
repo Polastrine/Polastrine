@@ -3,25 +3,18 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=polastrine&fontSize=70&fontColor=E0C3FC&fontAlignY=40&desc=%E2%9C%A7%20python%20%C2%B7%20devops%20%C2%B7%20AI%20data_engineering%20%E2%9C%A7&descAlignY=65&descSize=14&animation=twinkling" width="100%"/>
 
 <br>
-
 *"we are made of star-stuff. we are a way for the cosmos to know itself."* — **carl sagan**
-
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=800&color=B794F6&center=true&vCenter=true&width=600&lines=%E2%9C%A6+backend+developer+orbiting+python+%26+cloud;%E2%98%BD+building+data+pipelines+across+the+galaxy;%E2%9C%A7+integrating+AI+agents+into+the+dark+matter;%E2%9C%A6+one+line%2C+one+code+%E2%80%94+infinite+universe)](https://git.io/typing-svg)
-
 <br>
 
 ```
        .      .      ✦         .   ✧        .       ✦        .       ✧
   .        ✧              ✦           .       ✧         .        ✦
        ┌─────────────────────────────────────────────────────────────┐
-  ✦    │   $ whoami                                                  │  ✧
+  ✦    │                                                             │  ✧
        │  > diogo.polastrine — signal from são paulo.br 🛰️           │
-  .    │   $ mission                                                 │   .
-       │  > bend photons into APIs · pipe data through black holes   │
-  ✧    │   $ fuel                                                    │   ✦
-       │  > python · fastapi · airflow · docker · aws · claude       │
+  .    │  > polastrinedev.com.br                                     │   .
+  ✧    │                                                             │   ✦
        └─────────────────────────────────────────────────────────────┘
   .        ✦              .       ✧         .        ✦         .       ✧
 ```
