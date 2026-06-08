@@ -9,7 +9,7 @@
 
 ```
 .      .      ✦         .   ✧        .       ✦        .       ✧
-[https://polastrinedev.mooo.com/contato]
+[https://polastrinedev.mooo.com]
 ✧     ✦              .       ✧         .        ✦         .       ✧
 ```
 
